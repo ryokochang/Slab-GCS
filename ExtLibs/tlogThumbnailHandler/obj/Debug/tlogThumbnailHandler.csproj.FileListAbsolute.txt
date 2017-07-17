@@ -1,0 +1,5 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Debug\tlogThumbnailHandler.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Debug\tlogThumbnailHandler.csprojResolveAssemblyReference.cache

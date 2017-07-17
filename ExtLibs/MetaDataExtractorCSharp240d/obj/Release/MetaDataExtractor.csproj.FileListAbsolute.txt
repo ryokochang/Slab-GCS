@@ -1,0 +1,13 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\exif.xslt
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\sampleFile.xml
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractor.dtd
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractorNew.dtd
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\exif.xslt
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\sampleFile.xml
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractor.dtd
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractorNew.dtd
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll

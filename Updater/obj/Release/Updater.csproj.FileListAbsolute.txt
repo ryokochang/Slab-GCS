@@ -1,0 +1,12 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\Updater.exe.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\Updater.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\bin\Release\Updater.exe.config
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\bin\Release\Updater.exe
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Updater\obj\Release\Updater.Properties.Resources.resources
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Updater\obj\Release\Updater.exe

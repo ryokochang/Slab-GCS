@@ -1,0 +1,4 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb

@@ -1,0 +1,12 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.XML
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.XML
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.pdb

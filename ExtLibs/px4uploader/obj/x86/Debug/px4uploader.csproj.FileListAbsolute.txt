@@ -1,0 +1,11 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\validcertificates.xml
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\px4uploader.exe.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\px4uploader.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\px4uploader.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.xml
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.exe
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.pdb

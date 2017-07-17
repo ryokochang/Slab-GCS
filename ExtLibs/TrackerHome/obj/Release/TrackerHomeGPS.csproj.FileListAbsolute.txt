@@ -1,0 +1,14 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\TrackerHome.dll.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\TrackerHome.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\TrackerHome.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Release\TrackerHomeGPS.csproj.App.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Release\TrackerHome.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Release\TrackerHome.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Release\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\bin\Release\plugins\TrackerHome.dll.config
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\bin\Release\plugins\TrackerHome.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\bin\Release\plugins\TrackerHome.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Release\TrackerHomeGPS.csproj.App.config
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Release\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Release\TrackerHome.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Release\TrackerHome.pdb

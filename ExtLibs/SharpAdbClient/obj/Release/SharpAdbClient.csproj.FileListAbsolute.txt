@@ -1,0 +1,9 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.xml
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Release\Mono.Posix.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb

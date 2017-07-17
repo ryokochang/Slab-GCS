@@ -1,0 +1,11 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.dll.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.App.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SimpleGrid\obj\Release\MissionPlanner.SimpleGrid.pdb

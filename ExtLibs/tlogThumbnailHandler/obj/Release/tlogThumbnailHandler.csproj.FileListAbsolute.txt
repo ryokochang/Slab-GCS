@@ -1,0 +1,10 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.pdb

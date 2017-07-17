@@ -1,0 +1,16 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Msi\licence.rtf
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Msi\wix.exe.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Msi\wix.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Msi\wix.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.exe
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Msi\licence.rtf
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Msi\wix.exe.config
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Msi\wix.exe
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\Msi\wix.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\wix\obj\Debug\wix.Properties.Resources.resources
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\wix\obj\Debug\wix.exe
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\wix\obj\Debug\wix.pdb

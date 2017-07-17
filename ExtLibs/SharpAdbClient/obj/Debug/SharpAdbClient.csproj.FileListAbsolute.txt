@@ -1,0 +1,8 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Debug\SharpAdbClient.xml
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Debug\SharpAdbClient.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Debug\SharpAdbClient.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\bin\Debug\Mono.Posix.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.pdb

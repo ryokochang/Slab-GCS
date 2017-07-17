@@ -1,0 +1,14 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Grid.dll.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Grid.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\MissionPlanner.Grid.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\bin\Release\plugins\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csproj.App.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.resources
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.zh-Hans.resources
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb

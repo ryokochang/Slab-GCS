@@ -1,0 +1,12 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Release\MAVLink.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Release\MAVLink.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Release\log4net.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Release\MAVLink.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\bin\Release\MAVLink.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\bin\Release\MAVLink.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\bin\Release\log4net.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\obj\Release\MAVLink.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\obj\Release\MAVLink.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Mavlink\obj\Release\MAVLink.pdb

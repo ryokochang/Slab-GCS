@@ -1,0 +1,10 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Core\bin\Release\Core.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Core\bin\Release\Core.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Core\bin\Release\Core.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Core\bin\Release\Core.pdb
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Core\obj\Release\Core.dll
+C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Core\obj\Release\Core.pdb

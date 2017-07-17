@@ -1,0 +1,6 @@
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.dll.config
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.dll
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.pdb
+C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.csprojResolveAssemblyReference.cache
