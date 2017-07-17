@@ -9,3 +9,9 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\BaseClasses\bin\Debug\
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb

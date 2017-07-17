@@ -9,3 +9,12 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.App.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache

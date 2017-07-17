@@ -12,3 +12,10 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Stats\o
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Stats.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Stats.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Stats.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.csproj.App.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Stats\obj\Release\MissionPlanner.Stats.pdb

@@ -12,3 +12,15 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\Miss
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Grid.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Grid.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Grid.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csproj.App.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.GridUI.zh-Hans.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\MissionPlanner.Grid.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Release\zh-Hans\MissionPlanner.Grid.resources.dll

@@ -4,3 +4,5 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Release\A
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\AviFile\bin\Release\AviFile.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\AviFile\obj\Release\AviFile.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\AviFile\obj\Release\AviFile.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\bin\Release\AviFile.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Release\AviFile.dll

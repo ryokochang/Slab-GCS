@@ -12,3 +12,10 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\KMLib\bin\Debug\Core.p
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\KMLib\obj\Debug\KMLib.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\KMLib\obj\Debug\KMLib.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\KMLib\obj\Debug\KMLib.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Debug\KMLib.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Debug\KMLib.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Debug\Core.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Debug\Core.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Debug\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Debug\KMLib.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Debug\KMLib.pdb

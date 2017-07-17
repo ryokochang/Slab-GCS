@@ -7,3 +7,10 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Re
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.xml
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Release\SharpAdbClient.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Release\Mono.Posix.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Release\SharpAdbClient.csprojResolveAssemblyReference.cache

@@ -8,3 +8,8 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\bin\Release
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\bin\Release\LibVLC.NET.XML
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\obj\Release\LibVLC.NET.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\LibVLC.NET\obj\Release\LibVLC.NET.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\Release\LibVLC.NET.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\Release\LibVLC.NET.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\Release\LibVLC.NET.XML
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\obj\Release\LibVLC.NET.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\obj\Release\LibVLC.NET.pdb

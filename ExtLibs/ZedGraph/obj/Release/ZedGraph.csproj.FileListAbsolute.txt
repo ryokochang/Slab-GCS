@@ -16,3 +16,12 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\ZedGraph\obj\Release\Z
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\ZedGraph\obj\Release\ZedGraph.csproj.GenerateResource.Cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\ZedGraph\obj\Release\ZedGraph.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\ZedGraph\obj\Release\ZedGraph.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\bin\Release\ZedGraph.XML
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\bin\Release\ZedGraph.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\bin\Release\ZedGraph.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ZedGraph\obj\Release\ZedGraph.csprojResolveAssemblyReference.cache

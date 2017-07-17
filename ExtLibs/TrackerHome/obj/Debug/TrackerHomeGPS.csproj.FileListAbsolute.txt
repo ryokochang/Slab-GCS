@@ -12,3 +12,10 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Debug\
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Debug\TrackerHome.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\TrackerHome\obj\Debug\TrackerHome.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\TrackerHome.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\TrackerHome.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\plugins\TrackerHome.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csproj.App.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\TrackerHome\obj\Debug\TrackerHome.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\TrackerHome\obj\Debug\TrackerHome.pdb

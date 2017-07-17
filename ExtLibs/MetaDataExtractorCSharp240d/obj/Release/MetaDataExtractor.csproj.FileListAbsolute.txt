@@ -11,3 +11,9 @@ C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCShar
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\exif.xslt
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\sampleFile.xml
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractor.dtd
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetadataExtractorNew.dtd
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll

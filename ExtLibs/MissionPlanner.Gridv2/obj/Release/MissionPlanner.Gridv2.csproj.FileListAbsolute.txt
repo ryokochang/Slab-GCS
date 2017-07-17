@@ -13,3 +13,16 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Gridv2
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.pdb
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.dll
 C:\Users\CHANG-PC\Documents\MissionPlanner_source\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Gridv2.dll.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Gridv2.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\MissionPlanner.Gridv2.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Release\plugins\zh-Hans\MissionPlanner.Gridv2.resources.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.App.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.GridUIv2.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Properties.Resources.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.GridUIv2.zh-Hans.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\MissionPlanner.Gridv2.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MissionPlanner.Gridv2\obj\Release\zh-Hans\MissionPlanner.Gridv2.resources.dll

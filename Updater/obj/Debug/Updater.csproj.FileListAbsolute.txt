@@ -6,3 +6,11 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.csp
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.exe
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.pdb
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\Updater.exe.config
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\Updater.exe
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\bin\Debug\Updater.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.exe
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.pdb

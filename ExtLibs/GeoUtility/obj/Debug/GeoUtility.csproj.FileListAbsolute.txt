@@ -4,3 +4,10 @@ C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\GeoUtility\obj\Debug\
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\GeoUtility\obj\Debug\GeoUtility.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\GeoUtility\obj\Debug\GeoUtility.dll
 C:\Users\pedro_000\Documents\GitHub\MissionPlanner\ExtLibs\GeoUtility\obj\Debug\GeoUtility.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\bin\Debug\GeoUtility.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\bin\Debug\GeoUtility.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Debug\GeoUtility.csprojResolveAssemblyReference.cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Debug\GeoUtility.Properties.Resources.resources
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Debug\GeoUtility.csproj.GenerateResource.Cache
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Debug\GeoUtility.dll
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Debug\GeoUtility.pdb
