@@ -70,19 +70,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>GjfYQ02aR1ukgquhxenEqssqIl8=</dsig:DigestValue>
+        <dsig:DigestValue>cfyWDOXyh5AR2xMxwiOVK+79Uik=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AviFile.dll" size="36864">
-      <assemblyIdentity name="AviFile" version="1.0.6407.28164" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="AviFile" version="1.0.6407.39385" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2b+AVSwrpELWTB/1Ff7DpajFCSY=</dsig:DigestValue>
+        <dsig:DigestValue>s6OWsVRjc17/A7nLFENBQAqP9FA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -111,14 +111,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BSE.Windows.Forms.dll" size="137216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BSE.Windows.Forms.dll" size="136704">
       <assemblyIdentity name="BSE.Windows.Forms" version="1.0.0.0" publicKeyToken="B85B9027B614AFEF" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8yPWRLpPRHst58J5PGBM5GENoTc=</dsig:DigestValue>
+        <dsig:DigestValue>fVchdcGvdw88NF1TMllGlAewcls=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -130,7 +130,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Xmtg2Z0a49LMXlmL3/Tr/QAksf0=</dsig:DigestValue>
+        <dsig:DigestValue>lPu0kgWR3YrfgvIGMh4ET2d7l+I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -310,7 +310,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8YS8FeHbBaKMPaSHpAtRU1M1bRc=</dsig:DigestValue>
+        <dsig:DigestValue>ozRV94dKut7LabwEbSCFO20aR08=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -346,7 +346,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>YV7kVFvgp0eoK87c1XiGya5cu+o=</dsig:DigestValue>
+        <dsig:DigestValue>rkiC3qFNDj+czVbqhiS2T0GkXOg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -358,7 +358,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>c0rb3w75xKxSyBkqiCvOhRzK6lc=</dsig:DigestValue>
+        <dsig:DigestValue>4bh81FQyd1+D3yXRKNbtWwuZQ+Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -370,7 +370,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1Bx1jdE8UIxQHrkGiMy4orgZFm8=</dsig:DigestValue>
+        <dsig:DigestValue>wC76bFIhDJ9ZPDjVJNzz17g6I98=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -466,7 +466,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>LOh2Rf1A5QcXnb5lDrR3wzA+eK8=</dsig:DigestValue>
+        <dsig:DigestValue>KEW09oWJSTad6qU9TqGgJQntP+o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -478,7 +478,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>rjdlv9Ze2kZ4JS9hds/nElsLw/4=</dsig:DigestValue>
+        <dsig:DigestValue>ncGtkLSBV1EDCeP9b2RYuyCeXJE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -502,7 +502,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>M9IyBv94skldS8MPOffpnlUZEVo=</dsig:DigestValue>
+        <dsig:DigestValue>3P7SQVmRaUok9AA2mK11rxcBbPY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -514,19 +514,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FxSFqcY771PyRYpNhxABmSn+9jA=</dsig:DigestValue>
+        <dsig:DigestValue>Y1VX/ownCaAAqCuemqEKSneIFJU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetaDataExtractor.dll" size="237568">
-      <assemblyIdentity name="MetaDataExtractor" version="2.4.0.28165" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetaDataExtractor.dll" size="241664">
+      <assemblyIdentity name="MetaDataExtractor" version="2.4.0.39388" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>1d78kRpLl9WgXc/hkJT1baWOKDs=</dsig:DigestValue>
+        <dsig:DigestValue>AEW7uLmosKvrAHTes3VXVt4Uf9U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -622,43 +622,43 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>0RdCEQKsPLzjJiGc+uFOaEAf4fA=</dsig:DigestValue>
+        <dsig:DigestValue>4XBtycHrgt+ackbjAVVGIkV6CEg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MissionPlanner.Comms.dll" size="40448">
-      <assemblyIdentity name="MissionPlanner.Comms" version="1.0.6407.28164" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="MissionPlanner.Comms" version="1.0.6407.39384" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>bYvMhc0fXbd+vKC6pPkjWwChOxE=</dsig:DigestValue>
+        <dsig:DigestValue>qszgQMHMFaGzJjL+ZazLBbloiPo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MissionPlanner.Controls.dll" size="211456">
-      <assemblyIdentity name="MissionPlanner.Controls" version="1.0.6407.28161" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="MissionPlanner.Controls" version="1.0.6407.39377" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>a0nt0HkzlyVazYlxdXfSRqFWVRI=</dsig:DigestValue>
+        <dsig:DigestValue>GF8mVyLEjiWOC5++NWeNHQmZ4Rg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MissionPlanner.Utilities.dll" size="135680">
-      <assemblyIdentity name="MissionPlanner.Utilities" version="1.0.6407.28159" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MissionPlanner.Utilities.dll" size="136192">
+      <assemblyIdentity name="MissionPlanner.Utilities" version="1.0.6407.39373" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>NBXS9WNwlojY2yjtUv1PU7UjWDg=</dsig:DigestValue>
+        <dsig:DigestValue>Cngs8P9Ws1UhKfFZUMV8iWnJq7Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -784,25 +784,25 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="px4uploader.exe" size="58368">
-      <assemblyIdentity name="px4uploader" version="1.0.6407.28162" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="px4uploader" version="1.0.6407.39382" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>iOFbshLf2BIsK82mgKSdGM7gzvM=</dsig:DigestValue>
+        <dsig:DigestValue>elo7Fd2woLIgDEcJKcc8UZCPy1Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpAdbClient.dll" size="74752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpAdbClient.dll" size="74240">
       <assemblyIdentity name="SharpAdbClient" version="2.0.0.0" publicKeyToken="D728076F5D82A2E8" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Nz9cA1aINW3vMAphZ1sFhc3mLaw=</dsig:DigestValue>
+        <dsig:DigestValue>j2ciUl+IEGyVm/iip4eXjLYs7kQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -838,19 +838,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>3KpbVBLIkAo93Dpn/45/BptlEs0=</dsig:DigestValue>
+        <dsig:DigestValue>KyNbr6qBtO9IepKEV1fm+7jS374=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SqlServerCe.dll" size="470240">
-      <assemblyIdentity name="System.Data.SqlServerCe" version="4.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SqlServerCe.dll" size="236392">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="9.0.242.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>5CgiAYTsdSt+ExhIGHcTnDcT5L4=</dsig:DigestValue>
+        <dsig:DigestValue>ipp8jUUNvdGu6GwQCnD2UXQMVuI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1000,13 +1000,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tlogThumbnailHandler.dll" size="8704">
-      <assemblyIdentity name="tlogThumbnailHandler" version="1.0.6407.28162" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="tlogThumbnailHandler" version="1.0.6407.39381" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cLaNM6ns2gaxxJ4eH7FVjQw97/M=</dsig:DigestValue>
+        <dsig:DigestValue>px8rQuXdZTwmGaR/uFOA8XKIuxw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1024,13 +1024,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZedGraph.dll" size="328192">
-      <assemblyIdentity name="ZedGraph" version="5.1.5.28165" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="ZedGraph" version="5.1.5.39387" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>eg6yBCza1qc71gOGY/fmxERdKXU=</dsig:DigestValue>
+        <dsig:DigestValue>J9ueTCVxa0tge/2PfYcYShzUb4c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1046,13 +1046,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="acsimplepids.xml" size="2563" writeableType="applicationData">
+  <file name="acsimplepids.xml" size="2656" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>3twwDUSrw+OM2vvSQjG3tx4x46Q=</dsig:DigestValue>
+      <dsig:DigestValue>456q9zumWPwHkL3tPHUAKRgkUIE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="adb.exe" size="1479680">
@@ -1073,13 +1073,13 @@
       <dsig:DigestValue>C8WoIyf4ZB2ShxAeTMcEGvILrVc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="aircraft.xml" size="1314" writeableType="applicationData">
+  <file name="aircraft.xml" size="1373" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>IVkjMssfZX1SsMxWk0HW/WMGQP8=</dsig:DigestValue>
+      <dsig:DigestValue>jSTJoL3kS+OrfZv4Ox51F4WPGNc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="appxmanifest.xml" size="1570" writeableType="applicationData">
@@ -1127,13 +1127,13 @@
       <dsig:DigestValue>BMD2pwYnrl7lM+0bWExLIURnsVY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="dataflashlog.xml" size="10100" writeableType="applicationData">
+  <file name="dataflashlog.xml" size="10628" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>nDwbqAzw7IMZchQkyk5nuteeuJU=</dsig:DigestValue>
+      <dsig:DigestValue>annZeZ3aomLhhSKTWm3IMSFIEAE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DLLs\fftpack_lite.dll" size="84480">
@@ -1199,13 +1199,13 @@
       <dsig:DigestValue>Rg/h/E36eSK2/YLwf+awti19nq0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Drivers\dpinst.xml" size="224" writeableType="applicationData">
+  <file name="Drivers\dpinst.xml" size="235" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>8oaDJO7FEOKRgPn2A9bfJIfuCsY=</dsig:DigestValue>
+      <dsig:DigestValue>eQcbREBuTj8gj3d9B7RmDGsW4Xk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Drivers\DPInstx64.exe" size="1047632">
@@ -1352,31 +1352,31 @@
       <dsig:DigestValue>v02G49U/VIb5Zl5WC8JnjnVZJwU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\DataflashLog.py" size="29729">
+  <file name="LogAnalyzer\py2exe\DataflashLog.py" size="30421">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>cHl4WXOQGQ4lzHahUp+hBl2P4qQ=</dsig:DigestValue>
+      <dsig:DigestValue>/KLjFCMvm70KZjkq+VCxXStzV68=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\example_output.xml" size="13983" writeableType="applicationData">
+  <file name="LogAnalyzer\py2exe\example_output.xml" size="14339" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Kh/iyHfOH2/lDuWyS0PEROg/h1Q=</dsig:DigestValue>
+      <dsig:DigestValue>/4hEJEmrHG3hGO6dP7p5G6XdvN8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\LogAnalyzer.py" size="12539">
+  <file name="LogAnalyzer\py2exe\LogAnalyzer.py" size="12801">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/rNXxLQKww+JSMG/2f46Fil9dXQ=</dsig:DigestValue>
+      <dsig:DigestValue>/mG86awStkD1sRMPqOACnmT9QIw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LogAnalyzer\py2exe\runner.py" size="119">
@@ -1397,202 +1397,202 @@
       <dsig:DigestValue>RNR2jemEeAxSdKCeAezsF/P9Gb0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestAutotune.py" size="4748">
+  <file name="LogAnalyzer\py2exe\tests\TestAutotune.py" size="4873">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>S7HB1PeBNubBj0tenA88dvAxFUg=</dsig:DigestValue>
+      <dsig:DigestValue>S6vyOHoNsH8bE+W94lQcYCk2PLk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestBrownout.py" size="1476">
+  <file name="LogAnalyzer\py2exe\tests\TestBrownout.py" size="1516">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>IadnWvTOo/8R2ahiYVZ/FczF7c0=</dsig:DigestValue>
+      <dsig:DigestValue>wgzwwtyO0itgsdZ16eM9P6wiYKw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestCompass.py" size="6039">
+  <file name="LogAnalyzer\py2exe\tests\TestCompass.py" size="6163">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>CZQMoO9ExxmGgPU6tvUINT2Mn2A=</dsig:DigestValue>
+      <dsig:DigestValue>6GajrT1MjzLww63ORzmKk3t535A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestDualGyroDrift.py" size="5396">
+  <file name="LogAnalyzer\py2exe\tests\TestDualGyroDrift.py" size="5515">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>xPdgzNAFRhW8lT5g9xoY7kxrZX8=</dsig:DigestValue>
+      <dsig:DigestValue>dSqve7T1WE5hV4cUrIbDUdPHvA0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestDupeLogData.py" size="2651">
+  <file name="LogAnalyzer\py2exe\tests\TestDupeLogData.py" size="2728">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>FLZyhD2abOyIJb4JGzlcBjffnjk=</dsig:DigestValue>
+      <dsig:DigestValue>OsNaAj6UkjqU/ceJB3igp3LN5vg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestEmpty.py" size="606">
+  <file name="LogAnalyzer\py2exe\tests\TestEmpty.py" size="626">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>BcwySym/11rZUGmMe+PSsrd2kVE=</dsig:DigestValue>
+      <dsig:DigestValue>9bhOxpLFEXUiQ2xuOR9gb4xWOoc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestEvents.py" size="1798">
+  <file name="LogAnalyzer\py2exe\tests\TestEvents.py" size="1854">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>2D+Megry34H1ILedSab49E6KqWg=</dsig:DigestValue>
+      <dsig:DigestValue>t1ZU8MvLOf9TpceNar+4onSp0K4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestGPSGlitch.py" size="2325">
+  <file name="LogAnalyzer\py2exe\tests\TestGPSGlitch.py" size="2381">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>N3nzaQ2/8Az8FrmiZhotEJNwnO0=</dsig:DigestValue>
+      <dsig:DigestValue>t4/sC2pHoXRmqXuxCTB7KeCl5pk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestIMUMatch.py" size="4071">
+  <file name="LogAnalyzer\py2exe\tests\TestIMUMatch.py" size="4184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>fB0QfaWSSMHa1dJfQuMCcBM1UPM=</dsig:DigestValue>
+      <dsig:DigestValue>P8sB5qC9M54OigEWafYhzlcbqMc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestMotorBalance.py" size="2389">
+  <file name="LogAnalyzer\py2exe\tests\TestMotorBalance.py" size="2455">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>hDczJqIn1na+eEfBwjUGcczzMVM=</dsig:DigestValue>
+      <dsig:DigestValue>+0Gpz17iMkDEFQtJqSn7G39+oio=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestParams.py" size="3119">
+  <file name="LogAnalyzer\py2exe\tests\TestParams.py" size="3181">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>7OKry/qkRaaDB11z/xlAVV1QE9k=</dsig:DigestValue>
+      <dsig:DigestValue>pLuboBrG1eecPNtu0yPAj3o/3lM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestPerformance.py" size="3061">
+  <file name="LogAnalyzer\py2exe\tests\TestPerformance.py" size="3125">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Nh5F5OlFtayslc9q08CE0bSi06w=</dsig:DigestValue>
+      <dsig:DigestValue>pM9RdeCX+/GHPdGngE/+8OxtZnQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestPitchRollCoupling.py" size="5809">
+  <file name="LogAnalyzer\py2exe\tests\TestPitchRollCoupling.py" size="5933">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>hMGaZ3oR+8lKtjlYN2sUosdckwY=</dsig:DigestValue>
+      <dsig:DigestValue>qgmi1Mk5/3ngJMqZWKKT8PAZ+kg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestThrust.py" size="3454">
+  <file name="LogAnalyzer\py2exe\tests\TestThrust.py" size="3532">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>jZbl3WsDBRC1SUlLMqCpdZBvYR0=</dsig:DigestValue>
+      <dsig:DigestValue>gmWfGxzGuAt2WYtAkEfFTouOdLo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestVCC.py" size="1504">
+  <file name="LogAnalyzer\py2exe\tests\TestVCC.py" size="1546">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>bI8982v6PADCv4RPCGPtIpFPqe4=</dsig:DigestValue>
+      <dsig:DigestValue>lA6QDX43Xw1kLw5QrXPFpWpBJHk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\tests\TestVibration.py" size="3069">
+  <file name="LogAnalyzer\py2exe\tests\TestVibration.py" size="3136">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>0tU+ZsN8NbW8hBX7KrRXHSQsR64=</dsig:DigestValue>
+      <dsig:DigestValue>2mdaUEac5G6jobzD1n7ODcdN9Kc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\UnitTest.py" size="8990">
+  <file name="LogAnalyzer\py2exe\UnitTest.py" size="9074">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6CGIjC45hhwPblWrDB44yV5201U=</dsig:DigestValue>
+      <dsig:DigestValue>mmGyfzO5H+MiFaQWUFeKHpildvI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LogAnalyzer\py2exe\VehicleType.py" size="273">
+  <file name="LogAnalyzer\py2exe\VehicleType.py" size="285">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>MPWn/Yy+U+KHjJE0n2ToAUZuvnE=</dsig:DigestValue>
+      <dsig:DigestValue>TQh81mKEWa+IZStRx5gSDx4Rohk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="m3u\both.m3u" size="66">
+  <file name="m3u\both.m3u" size="69">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>QOCexm1mIB48R/6DMdOgrCsGW10=</dsig:DigestValue>
+      <dsig:DigestValue>dH53R+BY0IXrgXlTb3fZHeFmpcs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="m3u\hud.m3u" size="65">
+  <file name="m3u\hud.m3u" size="68">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6J+yIaWglzMYe8AqBEk17+DNYXg=</dsig:DigestValue>
+      <dsig:DigestValue>AILacI4EtXNErq/r31+1qXilUK8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="m3u\map.m3u" size="65">
+  <file name="m3u\map.m3u" size="68">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>LNLb06xJeLL926e3szL+VUyVj2s=</dsig:DigestValue>
+      <dsig:DigestValue>oq7eYHN6tSeo8xbHgkTz4UBIdm4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="mavcmd.xml" size="14943" writeableType="applicationData">
+  <file name="mavcmd.xml" size="15766" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Okd2z10dcxqMxEtrC0uXfBeGRSg=</dsig:DigestValue>
+      <dsig:DigestValue>EbyFcBZFHbdmiCwGFZFxyodZfOc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="mavelous_web\index.html" size="46">
@@ -1613,13 +1613,13 @@
       <dsig:DigestValue>HVPx3rRYr1+wlIJsEBt0d1R1VZg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="MAVLink.xml" size="2749" writeableType="applicationData">
+  <file name="MAVLink.xml" size="2867" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>qjhASgZztc4OYqIAsyVPd+V+22Q=</dsig:DigestValue>
+      <dsig:DigestValue>3rE2o6ZL4nPKu0SFDNK15e7GvNU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MissionPlanner.exe.config" size="6147">
@@ -1658,13 +1658,13 @@
       <dsig:DigestValue>bsp+mI+4ESmv/j7uR2EUaW4iowE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ParameterFactMetaData.xml" size="233321" writeableType="applicationData">
+  <file name="ParameterFactMetaData.xml" size="238266" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>dbOz09HG9EpaF6YkTInAL3+j9ZE=</dsig:DigestValue>
+      <dsig:DigestValue>f+C+7NOns1WWfz32wNpROzFpf/k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ParameterMetaDataBackup.xml" size="1169584" writeableType="applicationData">
@@ -1676,13 +1676,13 @@
       <dsig:DigestValue>2U/GEM0RolDHoPWbm5LkfM+XWMA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="quadhil.xml" size="2876" writeableType="applicationData">
+  <file name="quadhil.xml" size="2996" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>peJ1IzgqyLNmjSPTidTC4yqhf5M=</dsig:DigestValue>
+      <dsig:DigestValue>oN8Gv5Z6HjmB+jcY0an7cIOMY8o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\APM_rover-firmware.png" size="7272">
@@ -1712,31 +1712,31 @@
       <dsig:DigestValue>YyUPK0fwdeXdsdoZYTlKnn6jfqs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\MAVCmd.zh-Hans.txt" size="1289">
+  <file name="Resources\MAVCmd.zh-Hans.txt" size="1313">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>vuCdsDlEN+WzBt4BM1I+R719Lio=</dsig:DigestValue>
+      <dsig:DigestValue>3mosDRut3gUt2rgL+el3PurEkpo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\MAVCmd.zh-TW.txt" size="1290">
+  <file name="Resources\MAVCmd.zh-TW.txt" size="1314">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>DkA4A/+tUoyI9G50z2s/dYJ9gGE=</dsig:DigestValue>
+      <dsig:DigestValue>aI3m/nhxim1CBQYoaPlOIK/pCaE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\MAVParam.zh-Hans.txt" size="26878">
+  <file name="Resources\MAVParam.zh-Hans.txt" size="27098">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>kixcDeoiBHxifuceQwpmpIQshdw=</dsig:DigestValue>
+      <dsig:DigestValue>+jg1i7fNoGZNlHI3o0iJLPG9Gp0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\MAVParam.zh-TW.txt" size="26963">
@@ -1811,49 +1811,49 @@
       <dsig:DigestValue>vdBtMESVNnjJaG3lHmtbK8aUvbI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\example2.py" size="956">
+  <file name="Scripts\example2.py" size="997">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>S/vDedVUdi9UWu/SSi8oZUqntVQ=</dsig:DigestValue>
+      <dsig:DigestValue>sVc3uG0+YOar3xHnvq0or6UDHRE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\example3.py" size="2556">
+  <file name="Scripts\example3.py" size="2636">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>wVpHrPNtZw7IFbwocXDezdiJv54=</dsig:DigestValue>
+      <dsig:DigestValue>sGaL15+CFj0dsM1RNk5Skvs1EmE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\example4 wp.py" size="1193">
+  <file name="Scripts\example4 wp.py" size="1238">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>+4InVu2Pm143I+NF7WOLuza+8XY=</dsig:DigestValue>
+      <dsig:DigestValue>6AeNqXDi9yKr6TrqO5C/e1sgRlg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\example5 inject data.py" size="245">
+  <file name="Scripts\example5 inject data.py" size="257">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>FeePfzBfZTtqSMJGkZel+/CuzX4=</dsig:DigestValue>
+      <dsig:DigestValue>5kLkyZ/MvfxUYkcNynzZcmgEpiM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\example6.py" size="3744">
+  <file name="Scripts\example6.py" size="3852">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>rRWG5+7oxr8EAlugubhLKAhYPnk=</dsig:DigestValue>
+      <dsig:DigestValue>j2xn+cwPKwjPW40zida97kSo66k=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Scripts\example7.py" size="329">
@@ -1874,13 +1874,13 @@
       <dsig:DigestValue>SZrJFF7DRo5yqQZYOUrVEZlgM9c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\PARACHUTE LANDING APPROACH.py" size="3557">
+  <file name="Scripts\PARACHUTE LANDING APPROACH.py" size="3676">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>yRTRfiu9RUkEtZHSg0Fc3dtZLMw=</dsig:DigestValue>
+      <dsig:DigestValue>BqRPcLBXr7Y//uxY3WGh5FFJb4o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Scripts\rc.py" size="166">
@@ -1892,13 +1892,13 @@
       <dsig:DigestValue>qaHWz9pG/CM7YyFbCHyoZ5dY73E=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scripts\TAKEOFF.py" size="3583">
+  <file name="Scripts\TAKEOFF.py" size="3704">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>DLkhvJbz2906pkqto8uOFDCgggc=</dsig:DigestValue>
+      <dsig:DigestValue>JyNjtSsBvQlF3Y/4628w4fGhXIE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

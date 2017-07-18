@@ -18,3 +18,10 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Msi\wix.exe
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.Properties.Resources.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.csproj.GenerateResource.Cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Msi\licence.rtf
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Msi\wix.exe.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Msi\wix.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Release\wix.exe

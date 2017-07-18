@@ -34,3 +34,15 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\De
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csproj.GenerateResource.Cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\GMap.NET.WindowsForms.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\GMap.NET.Core.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\GMap.NET.Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\bin\Debug\zh-Hans\GMap.NET.Core.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.TilePrefetcher.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\System.Windows.Forms.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.WindowsForms\obj\Debug\GMap.NET.WindowsForms.pdb

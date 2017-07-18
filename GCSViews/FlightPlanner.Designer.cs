@@ -90,11 +90,11 @@
             this.BUT_write = new MissionPlanner.Controls.MyButton();
             this.BUT_read = new MissionPlanner.Controls.MyButton();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.TXT_homealt = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.LinkLabel();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.Label1 = new System.Windows.Forms.Label();
-            this.TXT_homealt = new System.Windows.Forms.TextBox();
             this.TXT_homelng = new System.Windows.Forms.TextBox();
             this.TXT_homelat = new System.Windows.Forms.TextBox();
             this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
@@ -104,11 +104,11 @@
             this.lbl_status = new System.Windows.Forms.Label();
             this.panelWaypoints = new BSE.Windows.Forms.Panel();
             this.splitter1 = new BSE.Windows.Forms.Splitter();
+            this.CMB_altmode = new System.Windows.Forms.ComboBox();
             this.BUT_Add = new MissionPlanner.Controls.MyButton();
             this.CHK_splinedefault = new System.Windows.Forms.CheckBox();
             this.label17 = new System.Windows.Forms.Label();
             this.TXT_altwarn = new System.Windows.Forms.TextBox();
-            this.CMB_altmode = new System.Windows.Forms.ComboBox();
             this.panelAction = new BSE.Windows.Forms.Panel();
             this.splitter2 = new BSE.Windows.Forms.Splitter();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
@@ -140,6 +140,11 @@
             this.aPartirDeKMZKMLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.areaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.autoWPToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mapToolToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.prefetchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.prefetchWPPathToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.kMLOverlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.elevationGraphToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trackBar1 = new MissionPlanner.Controls.MyTrackBar();
             this.label11 = new System.Windows.Forms.Label();
             this.createWpCircleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -174,14 +179,9 @@
             this.loadFromFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clearToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mapToolToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ContextMeasure = new System.Windows.Forms.ToolStripMenuItem();
             this.rotateMapToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.zoomToToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.prefetchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.prefetchWPPathToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.kMLOverlayToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.elevationGraphToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reverseWPsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fileLoadSaveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadWPFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -481,6 +481,12 @@
             resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Name = "panel1";
             // 
+            // TXT_homealt
+            // 
+            resources.ApplyResources(this.TXT_homealt, "TXT_homealt");
+            this.TXT_homealt.Name = "TXT_homealt";
+            this.TXT_homealt.TextChanged += new System.EventHandler(this.TXT_homealt_TextChanged);
+            // 
             // label4
             // 
             resources.ApplyResources(this.label4, "label4");
@@ -502,12 +508,6 @@
             // 
             resources.ApplyResources(this.Label1, "Label1");
             this.Label1.Name = "Label1";
-            // 
-            // TXT_homealt
-            // 
-            resources.ApplyResources(this.TXT_homealt, "TXT_homealt");
-            this.TXT_homealt.Name = "TXT_homealt";
-            this.TXT_homealt.TextChanged += new System.EventHandler(this.TXT_homealt_TextChanged);
             // 
             // TXT_homelng
             // 
@@ -612,6 +612,13 @@
             this.splitter1.Name = "splitter1";
             this.splitter1.TabStop = false;
             // 
+            // CMB_altmode
+            // 
+            resources.ApplyResources(this.CMB_altmode, "CMB_altmode");
+            this.CMB_altmode.FormattingEnabled = true;
+            this.CMB_altmode.Name = "CMB_altmode";
+            this.CMB_altmode.SelectedIndexChanged += new System.EventHandler(this.CMB_altmode_SelectedIndexChanged);
+            // 
             // BUT_Add
             // 
             resources.ApplyResources(this.BUT_Add, "BUT_Add");
@@ -636,13 +643,6 @@
             // 
             resources.ApplyResources(this.TXT_altwarn, "TXT_altwarn");
             this.TXT_altwarn.Name = "TXT_altwarn";
-            // 
-            // CMB_altmode
-            // 
-            resources.ApplyResources(this.CMB_altmode, "CMB_altmode");
-            this.CMB_altmode.FormattingEnabled = true;
-            this.CMB_altmode.Name = "CMB_altmode";
-            this.CMB_altmode.SelectedIndexChanged += new System.EventHandler(this.CMB_altmode_SelectedIndexChanged);
             // 
             // panelAction
             // 
@@ -909,6 +909,40 @@
             this.autoWPToolStripMenuItem.Name = "autoWPToolStripMenuItem";
             resources.ApplyResources(this.autoWPToolStripMenuItem, "autoWPToolStripMenuItem");
             // 
+            // mapToolToolStripMenuItem
+            // 
+            this.mapToolToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.prefetchToolStripMenuItem,
+            this.prefetchWPPathToolStripMenuItem,
+            this.kMLOverlayToolStripMenuItem,
+            this.elevationGraphToolStripMenuItem});
+            this.mapToolToolStripMenuItem.Name = "mapToolToolStripMenuItem";
+            resources.ApplyResources(this.mapToolToolStripMenuItem, "mapToolToolStripMenuItem");
+            // 
+            // prefetchToolStripMenuItem
+            // 
+            this.prefetchToolStripMenuItem.Name = "prefetchToolStripMenuItem";
+            resources.ApplyResources(this.prefetchToolStripMenuItem, "prefetchToolStripMenuItem");
+            this.prefetchToolStripMenuItem.Click += new System.EventHandler(this.prefetchToolStripMenuItem_Click);
+            // 
+            // prefetchWPPathToolStripMenuItem
+            // 
+            this.prefetchWPPathToolStripMenuItem.Name = "prefetchWPPathToolStripMenuItem";
+            resources.ApplyResources(this.prefetchWPPathToolStripMenuItem, "prefetchWPPathToolStripMenuItem");
+            this.prefetchWPPathToolStripMenuItem.Click += new System.EventHandler(this.prefetchWPPathToolStripMenuItem_Click);
+            // 
+            // kMLOverlayToolStripMenuItem
+            // 
+            this.kMLOverlayToolStripMenuItem.Name = "kMLOverlayToolStripMenuItem";
+            resources.ApplyResources(this.kMLOverlayToolStripMenuItem, "kMLOverlayToolStripMenuItem");
+            this.kMLOverlayToolStripMenuItem.Click += new System.EventHandler(this.kMLOverlayToolStripMenuItem_Click);
+            // 
+            // elevationGraphToolStripMenuItem
+            // 
+            this.elevationGraphToolStripMenuItem.Name = "elevationGraphToolStripMenuItem";
+            resources.ApplyResources(this.elevationGraphToolStripMenuItem, "elevationGraphToolStripMenuItem");
+            this.elevationGraphToolStripMenuItem.Click += new System.EventHandler(this.elevationGraphToolStripMenuItem_Click);
+            // 
             // trackBar1
             // 
             resources.ApplyResources(this.trackBar1, "trackBar1");
@@ -1136,20 +1170,6 @@
             resources.ApplyResources(this.clearToolStripMenuItem, "clearToolStripMenuItem");
             this.clearToolStripMenuItem.Click += new System.EventHandler(this.clearToolStripMenuItem_Click);
             // 
-            // mapToolToolStripMenuItem
-            // 
-            this.mapToolToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ContextMeasure,
-            this.rotateMapToolStripMenuItem,
-            this.zoomToToolStripMenuItem,
-            this.prefetchToolStripMenuItem,
-            this.prefetchWPPathToolStripMenuItem,
-            this.kMLOverlayToolStripMenuItem,
-            this.elevationGraphToolStripMenuItem,
-            this.reverseWPsToolStripMenuItem});
-            this.mapToolToolStripMenuItem.Name = "mapToolToolStripMenuItem";
-            resources.ApplyResources(this.mapToolToolStripMenuItem, "mapToolToolStripMenuItem");
-            // 
             // ContextMeasure
             // 
             this.ContextMeasure.Name = "ContextMeasure";
@@ -1167,30 +1187,6 @@
             this.zoomToToolStripMenuItem.Name = "zoomToToolStripMenuItem";
             resources.ApplyResources(this.zoomToToolStripMenuItem, "zoomToToolStripMenuItem");
             this.zoomToToolStripMenuItem.Click += new System.EventHandler(this.zoomToToolStripMenuItem_Click);
-            // 
-            // prefetchToolStripMenuItem
-            // 
-            this.prefetchToolStripMenuItem.Name = "prefetchToolStripMenuItem";
-            resources.ApplyResources(this.prefetchToolStripMenuItem, "prefetchToolStripMenuItem");
-            this.prefetchToolStripMenuItem.Click += new System.EventHandler(this.prefetchToolStripMenuItem_Click);
-            // 
-            // prefetchWPPathToolStripMenuItem
-            // 
-            this.prefetchWPPathToolStripMenuItem.Name = "prefetchWPPathToolStripMenuItem";
-            resources.ApplyResources(this.prefetchWPPathToolStripMenuItem, "prefetchWPPathToolStripMenuItem");
-            this.prefetchWPPathToolStripMenuItem.Click += new System.EventHandler(this.prefetchWPPathToolStripMenuItem_Click);
-            // 
-            // kMLOverlayToolStripMenuItem
-            // 
-            this.kMLOverlayToolStripMenuItem.Name = "kMLOverlayToolStripMenuItem";
-            resources.ApplyResources(this.kMLOverlayToolStripMenuItem, "kMLOverlayToolStripMenuItem");
-            this.kMLOverlayToolStripMenuItem.Click += new System.EventHandler(this.kMLOverlayToolStripMenuItem_Click);
-            // 
-            // elevationGraphToolStripMenuItem
-            // 
-            this.elevationGraphToolStripMenuItem.Name = "elevationGraphToolStripMenuItem";
-            resources.ApplyResources(this.elevationGraphToolStripMenuItem, "elevationGraphToolStripMenuItem");
-            this.elevationGraphToolStripMenuItem.Click += new System.EventHandler(this.elevationGraphToolStripMenuItem_Click);
             // 
             // reverseWPsToolStripMenuItem
             // 

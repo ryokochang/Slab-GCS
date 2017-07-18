@@ -12,3 +12,10 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Debug\Ionic.Zip
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Debug\SharpKml.XML
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Debug\SharpKml.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Debug\SharpKml.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb

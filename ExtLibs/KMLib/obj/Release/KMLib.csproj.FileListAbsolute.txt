@@ -19,3 +19,10 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Release\Core.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Release\KMLib.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Release\KMLib.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Release\Core.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\bin\Release\Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\KMLib\obj\Release\KMLib.pdb

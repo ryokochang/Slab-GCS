@@ -19,3 +19,13 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\Bouncy
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.xml
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\validcertificates.xml
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\px4uploader.exe.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\px4uploader.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\px4uploader.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Debug\Ionic.Zip.xml
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\x86\Debug\px4uploader.pdb

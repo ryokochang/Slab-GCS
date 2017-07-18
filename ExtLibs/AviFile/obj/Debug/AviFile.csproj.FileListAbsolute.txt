@@ -6,3 +6,8 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\bin\Debug\AviFile.dl
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\bin\Debug\AviFile.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Debug\AviFile.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Debug\AviFile.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Debug\AviFile.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\AviFile\obj\Debug\AviFile.pdb

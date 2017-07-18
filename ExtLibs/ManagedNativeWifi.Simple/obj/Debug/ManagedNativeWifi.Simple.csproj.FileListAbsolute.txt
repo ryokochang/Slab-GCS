@@ -9,3 +9,8 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.dll.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Debug\ManagedNativeWifi.Simple.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Debug\ManagedNativeWifi.Simple.pdb

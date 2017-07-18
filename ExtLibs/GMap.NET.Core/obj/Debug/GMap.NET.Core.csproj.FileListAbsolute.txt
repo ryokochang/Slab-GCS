@@ -22,3 +22,15 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\zh-Hans\GMap.NET.Core.resources.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Debug\GMap.NET.Core.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Debug\GMap.NET.Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Debug\zh-Hans\GMap.NET.Core.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Resources.Strings.zh-Hans.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\zh-Hans\GMap.NET.Core.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.pdb

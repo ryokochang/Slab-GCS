@@ -18,3 +18,12 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\Mission
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.GridUI.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.App.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.pdb

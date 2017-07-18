@@ -16,3 +16,9 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.csprojRe
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.Properties.Resources.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Release\Updater.exe.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Release\Updater.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.Properties.Resources.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Release\Updater.exe

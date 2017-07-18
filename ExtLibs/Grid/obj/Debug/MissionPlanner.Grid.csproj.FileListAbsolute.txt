@@ -24,3 +24,15 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanne
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.GridUI.zh-Hans.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.csproj.GenerateResource.Cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.Grid.dll.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.Grid.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\MissionPlanner.Grid.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\plugins\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.csproj.App.config
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.csprojResolveAssemblyReference.cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.GridUI.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.GridUI.zh-Hans.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.csproj.GenerateResource.Cache
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\zh-Hans\MissionPlanner.Grid.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Grid\obj\Debug\MissionPlanner.Grid.pdb
