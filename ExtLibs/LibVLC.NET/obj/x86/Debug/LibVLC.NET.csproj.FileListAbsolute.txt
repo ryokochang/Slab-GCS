@@ -15,7 +15,6 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\x86\Debug\Lib
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.pdb
-C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\obj\x86\Debug\LibVLC.NET.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.XML
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\LibVLC.NET\bin\x86\Debug\LibVLC.NET.pdb

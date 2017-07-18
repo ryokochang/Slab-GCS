@@ -12,7 +12,6 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\bin\Rel
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.pdb
-C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\bin\Release\tlogThumbnailHandler.pdb
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\tlogThumbnailHandler\obj\Release\tlogThumbnailHandler.csprojResolveAssemblyReference.cache

@@ -18,7 +18,6 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Release\SharpKm
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Release\Ionic.Zip.Reduced.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Release\SharpKml.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Release\SharpKml.pdb
-C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\obj\Release\SharpKml.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Release\SharpKml.XML
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Release\SharpKml.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpKml\bin\Release\SharpKml.pdb

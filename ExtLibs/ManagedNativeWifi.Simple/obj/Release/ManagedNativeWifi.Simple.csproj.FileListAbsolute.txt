@@ -15,7 +15,6 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.pdb
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.pdb
-C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\obj\Release\ManagedNativeWifi.Simple.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.dll.config
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\ManagedNativeWifi.Simple\bin\Release\ManagedNativeWifi.Simple.pdb

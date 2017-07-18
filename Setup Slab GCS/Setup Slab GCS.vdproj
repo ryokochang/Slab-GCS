@@ -4823,7 +4823,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Grid.resources, Version=1.0.6407.28914, Culture=zh-Hans, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Grid.resources, Version=1.0.6408.16007, Culture=zh-Hans, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_0055E90EB64D4E4B93516255411B941D"
@@ -4885,7 +4885,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Comms, Version=1.0.6407.28890, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Comms, Version=1.0.6408.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_00704ABE97BE3C238DCBEC3B4B01B1DA"
@@ -4998,7 +4998,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:tlogThumbnailHandler, Version=1.0.6407.28162, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:tlogThumbnailHandler, Version=1.0.6408.15970, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_019E42325397F3A04DF4EA373C8D26F5"
@@ -5725,7 +5725,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls, Version=1.0.6407.28888, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls, Version=1.0.6408.15969, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_157258BEDF5246349281F077ACFA8F5C"
@@ -5940,7 +5940,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:tlogThumbnailHandler, Version=1.0.6407.28162, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:tlogThumbnailHandler, Version=1.0.6408.15970, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_1C0A9E5A655A40D281AFACA711C6517C"
@@ -6357,7 +6357,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ZedGraph, Version=5.1.5.28890, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:ZedGraph, Version=5.1.5.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_2635151581054764A31C611E868ED180"
@@ -7574,7 +7574,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Comms, Version=1.0.6407.28890, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Comms, Version=1.0.6408.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_45CE8BC7F5A84672BA989444A19246F2"
@@ -7889,7 +7889,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Utilities, Version=1.0.6407.28887, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Utilities, Version=1.0.6408.15967, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_4CC36CC4E1444E3F8F5CE498EA737E93"
@@ -9217,7 +9217,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AviFile, Version=1.0.6407.28164, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:AviFile, Version=1.0.6408.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_66F0A627476CEB6924D34F774381CE46"
@@ -10044,7 +10044,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Grid, Version=1.0.6407.28914, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Grid, Version=1.0.6408.16007, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_80EA25D3CE8E43BE9E573536ADA30860"
@@ -10075,7 +10075,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:px4uploader, Version=1.0.6407.28164, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:px4uploader, Version=1.0.6408.15971, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_8164D858D4834562B7145F54D71FD725"
@@ -10330,7 +10330,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AviFile, Version=1.0.6407.28164, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:AviFile, Version=1.0.6408.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_8A845D8DA1794024BD099060C70615E3"
@@ -10443,7 +10443,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Utilities, Version=1.0.6407.28887, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Utilities, Version=1.0.6408.15967, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_8BDEACB1D37256C670F4D053B2AB2524"
@@ -11048,7 +11048,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ZedGraph, Version=5.1.5.28890, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:ZedGraph, Version=5.1.5.15972, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_9DE7C576BEC7A9D5F0BBE021AF66E776"
@@ -11345,7 +11345,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:px4uploader, Version=1.0.6407.28164, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:px4uploader, Version=1.0.6408.15971, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_A6C4CAE87BC805EC3CD464D797FB2740"
@@ -11536,7 +11536,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls, Version=1.0.6407.28888, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls, Version=1.0.6408.15969, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_AB502904C27D401288C3D3C4B790ADAE"
@@ -12066,7 +12066,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MetaDataExtractor, Version=2.4.0.28165, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MetaDataExtractor, Version=2.4.0.15973, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_BF76119AED4544E58A60374208000C56"
@@ -12596,7 +12596,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MetaDataExtractor, Version=2.4.0.28165, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MetaDataExtractor, Version=2.4.0.15973, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_D5C9CABF145F69E320882C7E5EAF1810"
@@ -13195,7 +13195,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Updater, Version=1.0.6407.28200, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Updater, Version=1.0.6408.16008, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_E0B8EF2FE374448BA01F4C4A1AAC5FA7"
@@ -13909,7 +13909,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls.resources, Version=1.0.6407.28888, Culture=zh-Hans, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:MissionPlanner.Controls.resources, Version=1.0.6408.15969, Culture=zh-Hans, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_F28E8CD542B546C4BC15EE0513E4DC4A"
@@ -14693,15 +14693,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Santos Lab GCS"
-        "ProductCode" = "8:{55BF7527-2129-4319-83AB-ACCBADA796EF}"
-        "PackageCode" = "8:{5CCACFD1-F9A4-4A79-9F9C-FC34B5B14798}"
+        "ProductCode" = "8:{9F213FE3-5383-45A0-A206-8ED7482E3989}"
+        "PackageCode" = "8:{D4071195-3DE4-40A7-BDD7-44FCAED358DA}"
         "UpgradeCode" = "8:{A2B38BFE-FA86-49F9-BAEF-B43954621A4E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.3"
+        "ProductVersion" = "8:1.0.4"
         "Manufacturer" = "8:Santos Lab"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"

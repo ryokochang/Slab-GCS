@@ -28,3 +28,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\bin\Release\Ion
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\Release\px4uploader.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\Release\px4uploader.exe
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\Release\px4uploader.pdb
+C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\px4uploader\obj\Release\px4uploader.csprojResolveAssemblyReference.cache

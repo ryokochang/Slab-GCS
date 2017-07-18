@@ -17,7 +17,6 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\bin\Releas
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\bin\Release\Newtonsoft.Json.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\bin\Release\log4net.xml
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\bin\Release\Newtonsoft.Json.xml
-C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Properties.Resources.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.Panel.resources
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Release\BSE.Windows.Forms.XPanderPanel.resources
