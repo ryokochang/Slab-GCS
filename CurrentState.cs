@@ -1671,7 +1671,16 @@ namespace MissionPlanner
                             messageHigh = Strings.BadLogging;
                             messageHighTime = DateTime.Now;
                         }
-
+                        else if (gpshdop >= 2.0f && gpshdop2 < 2.0f || gpshdop < 2.0f && gpshdop2 >= 2.0f)
+                        {
+                            messageHigh = "Discrepância de Navegação";
+                            messageHighTime = DateTime.Now;
+                        }
+                        else if (ter_curalt > 120.0f)
+                        {
+                            messageHigh = "Altitude máxima ultrapassada";
+                            messageHighTime = DateTime.Now;
+                        }
 
                         MAV.clearPacket((uint) MAVLink.MAVLINK_MSG_ID.SYS_STATUS);
                     }

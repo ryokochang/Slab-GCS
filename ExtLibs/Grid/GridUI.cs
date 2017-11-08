@@ -60,6 +60,7 @@ namespace MissionPlanner
         bool isMouseDown = false;
         bool isMouseDraging = false;
 
+        public double alertatempodevoo = 0;
         // Structures
         public struct camerainfo
         {
@@ -836,6 +837,7 @@ namespace MissionPlanner
             lbl_pictures.Text = images.ToString();
             lbl_strips.Text = ((int)(strips / 2)).ToString();
             double seconds = ((routetotal * 1000.0) / ((flyspeedms) * 0.8));
+            alertatempodevoo = seconds;
             // reduce flying speed by 20 %
             lbl_flighttime.Text = secondsToNice(seconds);
             seconds = ((routetotal * 1000.0) / (flyspeedms));
@@ -877,15 +879,15 @@ namespace MissionPlanner
 
             if (hours > 0)
             {
-                return hours + ":" + mins.ToString("00") + ":" + secs.ToString("00") + " Hours";
+                return hours + ":" + mins.ToString("00") + ":" + secs.ToString("00") + " Horas";
             }
             else if (mins > 0)
             {
-                return mins + ":" + secs.ToString("00") + " Minutes";
+                return mins + ":" + secs.ToString("00") + " Minutos";
             }
             else
             {
-                return secs.ToString("0.00") + " Seconds";
+                return secs.ToString("0.00") + " Segundos";
             }
         }
 
@@ -1546,6 +1548,19 @@ namespace MissionPlanner
                     CustomMessageBox.Show("You must use Land/RTL to split a mission", Strings.ERROR);
                     return;
                 }
+
+                if (alertatempodevoo > 2700)
+                {
+                    CustomMessageBox.Show("ATENÇÃO, o 'Tempo de Voo (est)' ultrapassou a máxima autonomia da aeronave! Refaça sem ultrapassar os 45 minutos!", "ALERTA",
+                   MessageBoxButtons.OK);
+                }
+
+                if (NUM_altitude.Value > 120)
+                {
+                    CustomMessageBox.Show("ATENÇÃO, a 'Altitude' ultrapassou 120 m/400 pés", "ALERTA",
+                   MessageBoxButtons.OK);
+                }
+                
 
                 var gridobject = savegriddata();
 

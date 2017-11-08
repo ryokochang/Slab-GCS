@@ -1949,7 +1949,7 @@ namespace MissionPlanner.GCSViews
             }
 
             if (
-                CustomMessageBox.Show("Are you sure you want to do " + CMB_action.Text + " ?", "Action",
+                CustomMessageBox.Show("Você tem certeza que quer realizar " + CMB_action.Text + " ?", "Action",
                     MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 try

@@ -2951,7 +2951,11 @@ namespace MissionPlanner
                 new Georefimage().Show();
                 return true;
             }
-
+            if (keyData == (Keys.Control | Keys.X)) // temp
+            {
+                new Swarm.FormationControl().Show();
+                return true;
+            }
             /*if (keyData == Keys.F12)
             {
                 MenuConnect_Click(null, null);
