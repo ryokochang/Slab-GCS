@@ -18,6 +18,5 @@ C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseCl
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
-C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb

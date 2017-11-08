@@ -121,9 +121,9 @@ namespace MissionPlanner.Controls.PreFlight
 
             GroupBox gb = new GroupBox() { Text = "", Location = new Point(x,y), Size = new Size(330, 17 + height), Name = "gb" + y };
 
-            Label desc = new Label() { Text = desctext, Location = new Point(5, 9), Size = new Size(150, height), Name = "udesc" + y };
-            Label text = new Label() { Text = texttext, Location = new Point(desc.Right, 9), Size = new Size(150, height), Name = "utext" + y };
-            CheckBox tickbox = new CheckBox() { Checked = item.checkCond(item), Location = new Point(text.Right, 7), Size = new Size(21, 21), Name = "utickbox" + y };
+            Label desc = new Label() { Text = desctext, Location = new Point(5, 9+2), Size = new Size(150, height), Name = "udesc" + y };
+            Label text = new Label() { Text = texttext, Location = new Point(desc.Right, 9+2), Size = new Size(150, height), Name = "utext" + y };
+            CheckBox tickbox = new CheckBox() { Checked = item.checkCond(item), Location = new Point(text.Right, 7+2), Size = new Size(21, 21), Name = "utickbox" + y };
 
             desc.Tag = text.Tag = tickbox.Tag = new internaldata { CLItem = item, desc = desc, text = text, tickbox = tickbox };
 
@@ -211,5 +211,6 @@ namespace MissionPlanner.Controls.PreFlight
                 timer1.Enabled = false;
             }
         }
+        
     }
 }

@@ -344,6 +344,7 @@
     <Compile Include="Controls\ControlSensorsStatus.Designer.cs">
       <DependentUpon>ControlSensorsStatus.cs</DependentUpon>
     </Compile>
+    <Compile Include="Swarm\DroneBase.cs" />
     <Compile Include="Swarm\FollowLeader\Control.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -1100,6 +1101,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Controls\Loading.resx">
       <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\PreFlight\CheckListControl.resx">
+      <DependentUpon>CheckListControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GCSViews\ConfigurationView\ConfigAccelerometerCalibration.de-DE.resx">
       <DependentUpon>ConfigAccelerometerCalibration.cs</DependentUpon>
@@ -2282,6 +2286,9 @@
     <EmbeddedResource Include="Swarm\FollowLeader\Control.resx">
       <DependentUpon>Control.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Swarm\WaypointLeader\WPControl.pt.resx">
+      <DependentUpon>WPControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Swarm\WaypointLeader\WPControl.resx">
       <DependentUpon>WPControl.cs</DependentUpon>
     </EmbeddedResource>
@@ -3216,7 +3223,6 @@
       <DependentUpon>Grid.cs</DependentUpon>
     </Compile>
     <Compile Include="Swarm\Swarm.cs" />
-    <Compile Include="Swarm\VerticalWave.cs" />
     <Compile Include="Utilities\ParameterMetaDataConstants.cs" />
     <Compile Include="MagCalib.cs" />
     <Compile Include="Radio\Sikradio.cs">

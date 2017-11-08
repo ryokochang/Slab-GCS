@@ -134,6 +134,18 @@ namespace MissionPlanner
         float _altasl = 0;
         float oldalt = 0;
 
+        [DisplayText("Velocity X (ms)")]
+        public double vx { get; set; }
+        [DisplayText("Velocity Y (ms)")]
+        public double vy { get; set; }
+        [DisplayText("Velocity Z (ms)")]
+        public double vz { get; set; }
+
+        public double vlen
+        {
+            get { return Math.Sqrt(Math.Pow(vx, 2) + Math.Pow(vy, 2) + Math.Pow(vz, 2)); }
+        }
+
         [DisplayText("Alt Home Offset (dist)")]
         public float altoffsethome { get; set; }
 

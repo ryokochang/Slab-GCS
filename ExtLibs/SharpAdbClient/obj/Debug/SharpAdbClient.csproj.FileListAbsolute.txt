@@ -17,6 +17,6 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Debug\Sh
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Debug\SharpAdbClient.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Debug\SharpAdbClient.pdb
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\bin\Debug\Mono.Posix.dll
-C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\SharpAdbClient\obj\Debug\SharpAdbClient.csprojResolveAssemblyReference.cache

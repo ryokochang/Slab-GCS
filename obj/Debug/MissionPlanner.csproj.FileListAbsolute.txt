@@ -2987,3 +2987,7 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.exe.manife
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.application
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.exe
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.Swarm.WaypointLeader.WPControl.pt.resources
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\bin\Debug\pt\MissionPlanner.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\pt\MissionPlanner.resources.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\obj\Debug\MissionPlanner.Controls.PreFlight.CheckListControl.resources

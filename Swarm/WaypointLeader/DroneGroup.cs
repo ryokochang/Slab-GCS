@@ -10,15 +10,13 @@ using MissionPlanner.Controls;
 using MissionPlanner.HIL;
 using MissionPlanner.Utilities;
 using ZedGraph;
+using SharpKml.Base;
 
 namespace MissionPlanner.Swarm.WaypointLeader
 {
     public class DroneGroup
     {
         private static readonly ILog log = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
-        
-        const float rad2deg = (float)(180 / Math.PI);
-        const float deg2rad = (float)(1.0 / rad2deg);
 
         public List<Drone> Drones = new List<Drone>();
         public MAVState airmaster;
@@ -76,9 +74,9 @@ namespace MissionPlanner.Swarm.WaypointLeader
                 drone.Location.Alt = drone.MavState.cs.alt;
                 if (drone.Velocity == null)
                     drone.Velocity = new Vector3();
-                drone.Velocity.x = Math.Cos(drone.MavState.cs.groundcourse*deg2rad)*drone.MavState.cs.groundspeed;
-                drone.Velocity.y = Math.Sin(drone.MavState.cs.groundcourse*deg2rad)*drone.MavState.cs.groundspeed;
-                drone.Velocity.z = drone.MavState.cs.verticalspeed;
+                drone.Velocity.x = drone.MavState.cs.vx;
+                drone.Velocity.y = drone.MavState.cs.vy;
+                drone.Velocity.z = drone.MavState.cs.vz;
 
                 // set default target as ground reference
                 drone.TargetVelocity = GroundMasterDrone.Velocity;
@@ -619,7 +617,7 @@ namespace MissionPlanner.Swarm.WaypointLeader
                 if (angle < 0)
                     angle += 360;
 
-                var alongline = Math.Cos(angle * deg2rad) * distToLocation;
+                var alongline = Math.Cos(MathHelpers.DegreesToRadians(angle)) * distToLocation;
 
                 // check to see if our point is still within the line length
                 if (Math.Abs(alongline) > lineDist)
@@ -628,7 +626,7 @@ namespace MissionPlanner.Swarm.WaypointLeader
                     continue;
                 }
 
-                var dXt2 = Math.Sin(angle * deg2rad) * distToLocation;
+                var dXt2 = Math.Sin(MathHelpers.DegreesToRadians(angle)) * distToLocation;
 
                 disttotal = Math.Min(disttotal, Math.Abs(dXt2));
 

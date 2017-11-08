@@ -2635,6 +2635,71 @@ Please check the following
             }
         }
 
+        public MAV_MISSION_RESULT setWP(byte sysid, byte compid, Locationwp loc, ushort index, MAV_FRAME frame, byte current = 0,
+            byte autocontinue = 1, bool use_int = false)
+        {
+            if (use_int)
+            {
+                mavlink_mission_item_int_t req = new mavlink_mission_item_int_t();
+
+                req.target_system = sysid;
+                req.target_component = compid;
+
+                req.command = loc.id;
+
+                req.current = current;
+                req.autocontinue = autocontinue;
+
+                req.frame = (byte)frame;
+                if (loc.id == (ushort)MAV_CMD.DO_DIGICAM_CONTROL || loc.id == (ushort)MAV_CMD.DO_DIGICAM_CONFIGURE)
+                {
+                    req.y = (int)(loc.lng);
+                    req.x = (int)(loc.lat);
+                }
+                else
+                {
+                    req.y = (int)(loc.lng * 1.0e7);
+                    req.x = (int)(loc.lat * 1.0e7);
+                }
+                req.z = (float)(loc.alt);
+
+                req.param1 = loc.p1;
+                req.param2 = loc.p2;
+                req.param3 = loc.p3;
+                req.param4 = loc.p4;
+
+                req.seq = index;
+
+                return setWP(req);
+            }
+            else
+            {
+                mavlink_mission_item_t req = new mavlink_mission_item_t();
+
+                req.target_system = sysid;
+                req.target_component = compid;
+
+                req.command = loc.id;
+
+                req.current = current;
+                req.autocontinue = autocontinue;
+
+                req.frame = (byte)frame;
+                req.y = (float)(loc.lng);
+                req.x = (float)(loc.lat);
+                req.z = (float)(loc.alt);
+
+                req.param1 = loc.p1;
+                req.param2 = loc.p2;
+                req.param3 = loc.p3;
+                req.param4 = loc.p4;
+
+                req.seq = index;
+
+                return setWP(req);
+            }
+        }
+
         public MAV_MISSION_RESULT setWP(mavlink_mission_item_t req)
         {
             giveComport = true;
@@ -2889,6 +2954,11 @@ Please check the following
 
         public void setGuidedModeWP(Locationwp gotohere, bool setguidedmode = true)
         {
+            setGuidedModeWP(MAV.sysid, MAV.compid, gotohere, setguidedmode);
+        }
+
+        public void setGuidedModeWP(byte sysid, byte compid, Locationwp gotohere, bool setguidedmode = true)
+        {
             if (gotohere.alt == 0 || gotohere.lat == 0 || gotohere.lng == 0)
                 return;
 
@@ -2901,11 +2971,11 @@ Please check the following
                 if (setguidedmode)
                 {
                     // fix for followme change
-                    if (MAV.cs.mode.ToUpper() != "GUIDED")
-                        setMode("GUIDED");
+                    if (MAVlist[sysid,compid].cs.mode.ToUpper() != "GUIDED")
+                        setMode(sysid, compid, "GUIDED");
                 }
 
-                MAV_MISSION_RESULT ans = setWP(gotohere, 0, MAVLink.MAV_FRAME.GLOBAL_RELATIVE_ALT, (byte) 2);
+                MAV_MISSION_RESULT ans = setWP(sysid, compid, gotohere, 0, MAV_FRAME.GLOBAL_RELATIVE_ALT, (byte) 2);
 
                 if (ans != MAV_MISSION_RESULT.MAV_MISSION_ACCEPTED)
                     throw new Exception("Guided Mode Failed");
@@ -2941,41 +3011,55 @@ Please check the following
             giveComport = false;
         }
 
-        public void setPositionTargetGlobalInt(byte sysid, byte compid, bool pos, bool vel, bool acc, MAV_FRAME frame, double lat, double lng, double alt, double vx, double vy, double vz)
+        public void setPositionTargetGlobalInt(byte sysid, byte compid, bool pos, bool vel, bool acc, bool yaw, MAV_FRAME frame, double lat, double lng, double alt, double vx, double vy, double vz, double yawangle, double yawrate)
         {
             // for mavlink SET_POSITION_TARGET messages
             const ushort MAVLINK_SET_POS_TYPE_MASK_POS_IGNORE = ((1 << 0) | (1 << 1) | (1 << 2));
             const ushort MAVLINK_SET_POS_TYPE_MASK_VEL_IGNORE = ((1 << 3) | (1 << 4) | (1 << 5));
             const ushort MAVLINK_SET_POS_TYPE_MASK_ACC_IGNORE = ((1 << 6) | (1 << 7) | (1 << 8));
+            const ushort MAVLINK_SET_POS_TYPE_MASK_FORCE = ((1 << 9));
+            const ushort MAVLINK_SET_POS_TYPE_MASK_YAW_IGNORE = ((1 << 10) | (1 << 11));
 
             mavlink_set_position_target_global_int_t target = new mavlink_set_position_target_global_int_t()
             {
                 target_system = sysid,
                 target_component = compid,
-                alt = (float) alt,
-                lat_int = (int) (lat*1e7),
-                lon_int = (int) (lng*1e7),
-                coordinate_frame = (byte) frame,
-                vx = (float) vx,
-                vy = (float) vy,
-                vz = (float) vz
+                alt = (float)alt,
+                lat_int = (int)(lat * 1e7),
+                lon_int = (int)(lng * 1e7),
+                coordinate_frame = (byte)frame,
+                vx = (float)vx,
+                vy = (float)vy,
+                vz = (float)vz,
+                yaw = (float)yawangle,
+                yaw_rate = (float)yawrate
             };
 
-            target.type_mask = 7 + 56 + 448;
+            target.type_mask = ushort.MaxValue;
 
             if (pos)
-                target.type_mask -= 7;
+                target.type_mask -= MAVLINK_SET_POS_TYPE_MASK_POS_IGNORE;
             if (vel)
-                target.type_mask -= 56;
+                target.type_mask -= MAVLINK_SET_POS_TYPE_MASK_VEL_IGNORE;
             if (acc)
-                target.type_mask -= 448;
+                target.type_mask -= MAVLINK_SET_POS_TYPE_MASK_ACC_IGNORE;
+            if (yaw)
+                target.type_mask -= MAVLINK_SET_POS_TYPE_MASK_YAW_IGNORE;
 
-            bool pos_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_POS_IGNORE)>0;
-            bool vel_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_VEL_IGNORE)>0;
-            bool acc_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_ACC_IGNORE)>0;
+            if (pos)
+            {
+                MAVlist[sysid, compid].GuidedMode.x = (float)lat;
+                MAVlist[sysid, compid].GuidedMode.y = (float)lng;
+                MAVlist[sysid, compid].GuidedMode.z = (float)alt;
+            }
+
+            bool pos_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_POS_IGNORE) > 0;
+            bool vel_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_VEL_IGNORE) > 0;
+            bool acc_ignore = (target.type_mask & MAVLINK_SET_POS_TYPE_MASK_ACC_IGNORE) > 0;
 
             generatePacket((byte)MAVLINK_MSG_ID.SET_POSITION_TARGET_GLOBAL_INT, target, sysid, compid);
         }
+
 
         public void setAttitudeTarget()
         {
@@ -3027,26 +3111,31 @@ Please check the following
 
         public void setMountControl(double pa, double pb, double pc, bool islatlng)
         {
+            setMountControl(MAV.sysid, MAV.compid, pa, pb, pc, islatlng);
+        }
+
+        public void setMountControl(byte sysid, byte compid, double pa, double pb, double pc, bool islatlng)
+        {
             mavlink_mount_control_t req = new mavlink_mount_control_t();
 
-            req.target_system = MAV.sysid;
-            req.target_component = MAV.compid;
+            req.target_system = sysid;
+            req.target_component = compid;
             if (!islatlng)
             {
-                req.input_a = (int) pa;
-                req.input_b = (int) pb;
-                req.input_c = (int) pc;
+                req.input_a = (int)pa;
+                req.input_b = (int)pb;
+                req.input_c = (int)pc;
             }
             else
             {
-                req.input_a = (int) (pa*10000000.0);
-                req.input_b = (int) (pb*10000000.0);
-                req.input_c = (int) (pc*100.0);
+                req.input_a = (int)(pa * 10000000.0);
+                req.input_b = (int)(pb * 10000000.0);
+                req.input_c = (int)(pc * 100.0);
             }
 
-            generatePacket((byte) MAVLINK_MSG_ID.MOUNT_CONTROL, req);
-            System.Threading.Thread.Sleep(20);
-            generatePacket((byte) MAVLINK_MSG_ID.MOUNT_CONTROL, req);
+            generatePacket((byte)MAVLINK_MSG_ID.MOUNT_CONTROL, req);
+            Thread.Sleep(20);
+            generatePacket((byte)MAVLINK_MSG_ID.MOUNT_CONTROL, req);
         }
 
         public void setMode(string modein)

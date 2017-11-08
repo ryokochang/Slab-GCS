@@ -726,6 +726,13 @@ namespace MissionPlanner.GCSViews
                 tabControlactions.SelectedIndex = 0;
                 return true;
             }
+            else if (keyData == (Keys.Control | Keys.Alt | Keys.T))
+            {
+                    if (!this.tabControlactions.Controls.Contains(this.tabTLogs))
+                        this.tabControlactions.Controls.Add(this.tabTLogs);
+                
+                return true;
+            }
             else if (keyData == (Keys.Control | Keys.D2))
             {
                 tabControlactions.SelectedIndex = 1;
@@ -1636,10 +1643,6 @@ namespace MissionPlanner.GCSViews
                         MainV2.comPort.MAV.cs.UpdateCurrentSettings(bindingSourceQuickTab);
                     }
                     else if (tabControlactions.SelectedTab == tabGauges)
-                    {
-                        MainV2.comPort.MAV.cs.UpdateCurrentSettings(bindingSourceGaugesTab);
-                    }
-                    else if (tabControlactions.SelectedTab == tabPagePreFlight)
                     {
                         MainV2.comPort.MAV.cs.UpdateCurrentSettings(bindingSourceGaugesTab);
                     }
@@ -4271,8 +4274,8 @@ namespace MissionPlanner.GCSViews
 
         private void loadTabControlActions()
         {
-            //string tabs = Settings.Instance["tabcontrolactions"];
-            string tabs = "tabQuick;tabActions;tablogbrowse;";
+            string tabs = Settings.Instance["tabcontrolactions"];
+            //string tabs = "tabQuick;tabActions;tablogbrowse;tabPagePreFlight;tabTLogs;";
 
             if (String.IsNullOrEmpty(tabs) || TabListOriginal == null || TabListOriginal.Count == 0)
                 return;
@@ -4373,6 +4376,21 @@ namespace MissionPlanner.GCSViews
         }
 
         private void lbl_hdop_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPagePreFlight_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkListControl1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPagePreFlight_Click_1(object sender, EventArgs e)
         {
 
         }

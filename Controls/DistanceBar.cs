@@ -13,10 +13,21 @@ namespace MissionPlanner.Controls
     {
         Brush brushbar = new SolidBrush(Color.FromArgb(50, Color.White));
 
+
         private readonly Bitmap icon = global::MissionPlanner.Properties.Resources.marker_05;
 
+        private float _traveleddist = 0;
+
         public float totaldist { get; set; }
-        public float traveleddist { get; set; }
+        public float traveleddist
+        {
+            get { return _traveleddist; }
+            set
+            {
+                _traveleddist = value;
+                this.Invalidate();
+            }
+        }
 
         private object locker = new object();
         private List<float> wpdist = new List<float>();
@@ -78,7 +89,7 @@ namespace MissionPlanner.Controls
 
         protected override void OnPaint(PaintEventArgs e)
         {
-            base.OnPaint(e);
+            //base.OnPaint(e);
 
             if (this.Parent != null)
             {
@@ -102,7 +113,7 @@ namespace MissionPlanner.Controls
 
                     // draw bar traveled
 
-                    RectangleF bartrav = new RectangleF(bar.X, bar.Y, bar.Width*(traveleddist/totaldist), bar.Height);
+                    RectangleF bartrav = new RectangleF(bar.X, bar.Y, bar.Width * (traveleddist / totaldist), bar.Height);
 
                     etemp.FillRectangle(brushbar, bartrav);
                     etemp.FillRectangle(brushbar, bartrav);
@@ -114,7 +125,7 @@ namespace MissionPlanner.Controls
 
                     lock (locker)
                     {
-                        float iconwidth = this.Height/4.0f;
+                        float iconwidth = this.Height / 4.0f;
                         float trav = 0;
                         foreach (var disttrav in wpdist)
                         {
@@ -123,8 +134,8 @@ namespace MissionPlanner.Controls
                             if (trav > totaldist)
                                 trav = totaldist;
 
-                            etemp.FillPie(Brushes.Yellow, (bar.X + bar.Width*(trav/totaldist)) - iconwidth/2, bar.Top,
-                                bar.Height/2, bar.Height, 0, 360);
+                            etemp.FillPie(Brushes.Yellow, (bar.X + bar.Width * (trav / totaldist)) - iconwidth / 2, bar.Top,
+                                bar.Height / 2, bar.Height, 0, 360);
                             //e.Graphics.DrawImage(icon, (bar.X + bar.Width * (trav / totaldist)) - iconwidth / 2, 1, iconwidth, bar.Height);
                         }
                     }
