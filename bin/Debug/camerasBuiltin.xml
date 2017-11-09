@@ -44,4 +44,31 @@
     <senh>4.631</senh>
     <senw>6.175</senw>
   </Camera>
+
+  <Camera>
+    <name>RedEdge</name>
+    <flen>5.5</flen>
+    <imgh>960</imgh>
+    <imgw>1280</imgw>
+    <senh>3.6</senh>
+    <senw>4.8</senw>
+  </Camera>
+
+  <Camera>
+    <name>Sequoia RGB</name>
+    <flen>4.9</flen>
+    <imgh>3456</imgh>
+    <imgw>4608</imgw>
+    <senh>4.6</senh>
+    <senw>6.2</senw>
+  </Camera>
+
+  <Camera>
+    <name>Sequoia Multispectral</name>
+    <flen>4.0</flen>
+    <imgh>960</imgh>
+    <imgw>1280</imgw>
+    <senh>3.6</senh>
+    <senw>4.8</senw>
+  </Camera>
 </Cameras>

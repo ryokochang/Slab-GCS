@@ -14,3 +14,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Mavlink\bin\Debug\MAVLink.p
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Mavlink\bin\Debug\log4net.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Mavlink\obj\Debug\MAVLink.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Mavlink\obj\Debug\MAVLink.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Mavlink\obj\Debug\MAVLink.csprojResolveAssemblyReference.cache

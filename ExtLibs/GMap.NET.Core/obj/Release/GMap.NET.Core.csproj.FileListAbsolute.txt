@@ -34,7 +34,6 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Release\G
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Release\GMap.NET.Core.XML
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Release\zh-Hans\GMap.NET.Core.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\bin\Release\System.Data.SqlServerCe.dll
-C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Core.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Properties.Resources.resources
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Resources.Strings.resources
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Resources.Strings.zh-Hans.resources

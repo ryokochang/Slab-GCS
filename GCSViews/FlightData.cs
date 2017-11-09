@@ -4394,5 +4394,10 @@ namespace MissionPlanner.GCSViews
         {
 
         }
+
+        private void MainH_SplitterMoved(object sender, SplitterEventArgs e)
+        {
+
+        }
     }
 }

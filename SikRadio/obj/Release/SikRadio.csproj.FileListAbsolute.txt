@@ -129,7 +129,6 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\bin\Release\zh-Hant\SikRad
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\bin\Release\zh-TW\SikRadio.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\bin\Release\log4net.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\bin\Release\ZedGraph.dll
-C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\SikRadio.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\MissionPlanner.Sikradio.resources
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\SikRadio.Config.resources
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\SikRadio.Properties.Resources.resources

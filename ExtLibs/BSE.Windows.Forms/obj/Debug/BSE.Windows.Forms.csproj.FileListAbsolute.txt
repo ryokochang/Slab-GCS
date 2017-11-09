@@ -44,3 +44,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Debug
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache

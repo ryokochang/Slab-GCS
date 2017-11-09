@@ -33,3 +33,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMa
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\zh-Hans\GMap.NET.Core.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Debug\GMap.NET.Core.csprojResolveAssemblyReference.cache

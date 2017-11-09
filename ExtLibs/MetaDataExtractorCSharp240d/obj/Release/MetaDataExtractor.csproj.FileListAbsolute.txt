@@ -22,6 +22,5 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\exif.xslt
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\sampleFile.xml
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\bin\Release\MetaDataExtractor.dll
-C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.csprojResolveAssemblyReference.cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.dll
 C:\Users\CHANG-PC\Documents\GitHub\Slab-GCS\ExtLibs\MetaDataExtractorCSharp240d\obj\Release\MetaDataExtractor.csprojResolveAssemblyReference.cache

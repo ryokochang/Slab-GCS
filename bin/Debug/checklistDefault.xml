@@ -3,11 +3,11 @@
   <CheckListItem>
     <TrueColor>Green</TrueColor>
     <FalseColor>Red</FalseColor>
-    <Description>Veryify GPS</Description>
-    <Text>{value} &gt;= 3</Text>
-    <TriggerValue>3</TriggerValue>
-    <Name>gpsstatus</Name>
-    <ConditionType>GTEQ</ConditionType>
+    <Description>Verificar GPS 1 HDOP</Description>
+    <Text>{value} &lt;= 2</Text>
+    <TriggerValue>2</TriggerValue>
+    <Name>gpshdop</Name>
+    <ConditionType>LTEQ</ConditionType>
   </CheckListItem>
   <CheckListItem>
     <TrueColor>Green</TrueColor>
@@ -21,7 +21,7 @@
   <CheckListItem>
     <TrueColor>Green</TrueColor>
     <FalseColor>Red</FalseColor>
-    <Description>Telemetry Signal</Description>
+    <Description>Sinal Telemetria</Description>
     <Text>{value}%</Text>
     <TriggerValue>95</TriggerValue>
     <Name>linkqualitygcs</Name>
