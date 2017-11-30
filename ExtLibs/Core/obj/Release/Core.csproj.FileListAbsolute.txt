@@ -17,3 +17,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Core\bin\Release\Core.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Core\bin\Release\Core.pdb
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Core\obj\Release\Core.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Core\obj\Release\Core.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\Core\obj\Release\Core.csprojResolveAssemblyReference.cache

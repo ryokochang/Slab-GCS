@@ -94,23 +94,41 @@ namespace MissionPlanner.Utilities
         {
             return new DisplayView()
             {
-                displayName = DisplayNames.Basic,
-                displaySimulation = false,
-                displayTerminal = false,
+                //displayName = DisplayNames.Basic,
+                //displaySimulation = false,
+                //displayTerminal = false,
+                //displayDonate = true,
+                //displayHelp = true,
+                //displayAnenometer = true,
+                //displayAdvActionsTab = false,
+                //displaySimpleActionsTab = true,
+                //displayStatusTab = false,
+                //displayServoTab = false,
+                //displayScriptsTab = false,
+                //displayAdvancedParams = false,
+                //displayFullParamList = false,
+                //displayFullParamTree = false,
+                //displayBaudCMB = true,
+                //displaySerialPortCMB = true,
+                //isAdvancedMode = false
+
+                displayName = DisplayNames.Advanced,
+                displaySimulation = true,
+                displayTerminal = true,
                 displayDonate = true,
                 displayHelp = true,
                 displayAnenometer = true,
-                displayAdvActionsTab = false,
-                displaySimpleActionsTab = true,
-                displayStatusTab = false,
+                displayAdvActionsTab = true,
+                displaySimpleActionsTab = false,
+                displayStatusTab = true,
                 displayServoTab = false,
-                displayScriptsTab = false,
-                displayAdvancedParams = false,
-                displayFullParamList = false,
-                displayFullParamTree = false,
+                displayScriptsTab = true,
+                displayAdvancedParams = true,
+                displayFullParamList = true,
+                displayFullParamTree = true,
                 displayBaudCMB = true,
                 displaySerialPortCMB = true,
-                isAdvancedMode = false
+                isAdvancedMode = true
             };
         }
         public static DisplayView Advanced(this DisplayView v)

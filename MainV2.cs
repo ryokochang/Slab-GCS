@@ -441,7 +441,7 @@ namespace MissionPlanner
                 }
                 else if (!DisplayConfiguration.displayAdvActionsTab && t.TabPages.Contains(FlightData.tabActions))
                 {
-                    t.TabPages.Remove(FlightData.tabActions);
+                    //t.TabPages.Remove(FlightData.tabActions);
                 }
                 if (DisplayConfiguration.displaySimpleActionsTab && !t.TabPages.Contains(FlightData.tabActionsSimple))
                 {

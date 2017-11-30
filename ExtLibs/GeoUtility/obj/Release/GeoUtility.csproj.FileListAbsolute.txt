@@ -28,3 +28,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Release\GeoU
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Release\GeoUtility.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Release\GeoUtility.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Release\GeoUtility.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GeoUtility\obj\Release\GeoUtility.csprojResolveAssemblyReference.cache

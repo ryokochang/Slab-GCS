@@ -40,3 +40,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\G
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Core.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\zh-Hans\GMap.NET.Core.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Core.dll
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\ExtLibs\GMap.NET.Core\obj\Release\GMap.NET.Core.csprojResolveAssemblyReference.cache

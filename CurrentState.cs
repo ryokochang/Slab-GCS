@@ -794,7 +794,7 @@ namespace MissionPlanner
             }
         }
 
-        [DisplayText("Distance to Home (dist)")]
+        [DisplayText("Distância de Home (dist)")]
         public float DistToHome
         {
             get

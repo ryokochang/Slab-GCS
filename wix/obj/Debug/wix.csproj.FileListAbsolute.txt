@@ -30,3 +30,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Debug\wix.Properties.Resour
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Debug\wix.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Debug\wix.exe
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Debug\wix.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\wix\obj\Debug\wix.csprojResolveAssemblyReference.cache

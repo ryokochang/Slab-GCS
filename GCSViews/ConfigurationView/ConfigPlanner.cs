@@ -44,7 +44,7 @@ namespace MissionPlanner.GCSViews.ConfigurationView
             }
             else
             {
-                CMB_Layout.SelectedIndex = 0;
+                CMB_Layout.SelectedIndex = 1;
             }
 
 
@@ -680,6 +680,7 @@ namespace MissionPlanner.GCSViews.ConfigurationView
         private void OnLogDirTextChanged(object sender, EventArgs e)
         {
             string path = txt_log_dir.Text;
+            
             if (!string.IsNullOrEmpty(path) && System.IO.Directory.Exists(path))
             {
                 Settings.Instance.LogDir = path;

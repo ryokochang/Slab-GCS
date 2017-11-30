@@ -728,8 +728,11 @@ namespace MissionPlanner.GCSViews
             }
             else if (keyData == (Keys.Control | Keys.Alt | Keys.T))
             {
-                    if (!this.tabControlactions.Controls.Contains(this.tabTLogs))
-                        this.tabControlactions.Controls.Add(this.tabTLogs);
+                if (!this.tabControlactions.Controls.Contains(this.tabTLogs))
+                {
+                    this.tabControlactions.Controls.Add(this.tabTLogs);
+                    this.CB_tuning.Visible = true;
+                }
                 
                 return true;
             }
@@ -4274,8 +4277,8 @@ namespace MissionPlanner.GCSViews
 
         private void loadTabControlActions()
         {
-            string tabs = Settings.Instance["tabcontrolactions"];
-            //string tabs = "tabQuick;tabActions;tablogbrowse;tabPagePreFlight;tabTLogs;";
+            //string tabs = Settings.Instance["tabcontrolactions"];
+            string tabs = "tabQuick;tabActions;tablogbrowse;tabPagePreFlight;";
 
             if (String.IsNullOrEmpty(tabs) || TabListOriginal == null || TabListOriginal.Count == 0)
                 return;

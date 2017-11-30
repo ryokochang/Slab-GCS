@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfCheckListItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfCheckListItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CheckListItem>
     <TrueColor>Green</TrueColor>
     <FalseColor>Red</FalseColor>
@@ -12,34 +12,70 @@
   <CheckListItem>
     <TrueColor>Green</TrueColor>
     <FalseColor>Red</FalseColor>
-    <Description>Gps Sat Count</Description>
+    <Description>Num. de Sats GPS 1</Description>
     <Text>{value} Sats</Text>
     <TriggerValue>5</TriggerValue>
     <Name>satcount</Name>
-    <ConditionType>GTEQ</ConditionType>
-  </CheckListItem>
-  <CheckListItem>
-    <TrueColor>Green</TrueColor>
-    <FalseColor>Red</FalseColor>
-    <Description>Sinal Telemetria</Description>
-    <Text>{value}%</Text>
-    <TriggerValue>95</TriggerValue>
-    <Name>linkqualitygcs</Name>
-    <ConditionType>GT</ConditionType>
-  </CheckListItem>
-  <CheckListItem>
-    <TrueColor>Green</TrueColor>
-    <FalseColor>Red</FalseColor>
-    <Description>Battery Level</Description>
-    <Text>{value} V</Text>
-    <TriggerValue>22</TriggerValue>
-    <Name>battery_voltage</Name>
     <ConditionType>GT</ConditionType>
   </CheckListItem>
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>Mode</Description>
+    <Description>Verificar GPS 2 HDOP</Description>
+    <Text>{value} &lt;= 2</Text>
+    <TriggerValue>2</TriggerValue>
+    <Name>gpshdop2</Name>
+    <ConditionType>LTEQ</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>White</TrueColor>
+    <FalseColor>White</FalseColor>
+    <Description>Num. de Sats GPS 2</Description>
+    <Text>{value} Sats</Text>
+    <TriggerValue>5</TriggerValue>
+    <Name>satcount2</Name>
+    <ConditionType>GT</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>Green</TrueColor>
+    <FalseColor>Red</FalseColor>
+    <Description>Tensao da Bateria</Description>
+    <Text>{value} V</Text>
+    <TriggerValue>16</TriggerValue>
+    <Name>battery_voltage</Name>
+    <ConditionType>GT</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>Green</TrueColor>
+    <FalseColor>Red</FalseColor>
+    <Description>Verificar a Altitude</Description>
+    <Text>{value} &lt; 5m</Text>
+    <TriggerValue>5</TriggerValue>
+    <Name>alt</Name>
+    <ConditionType>LT</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>Green</TrueColor>
+    <FalseColor>Red</FalseColor>
+    <Description>Verificar o Airspeed</Description>
+    <Text>{value} &lt; 3m/s</Text>
+    <TriggerValue>3</TriggerValue>
+    <Name>airspeed</Name>
+    <ConditionType>LT</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>Green</TrueColor>
+    <FalseColor>Red</FalseColor>
+    <Description>Sinal da Telemetria</Description>
+    <Text>{value} &gt;= 80%</Text>
+    <TriggerValue>80</TriggerValue>
+    <Name>linkqualitygcs</Name>
+    <ConditionType>GTEQ</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>White</TrueColor>
+    <FalseColor>White</FalseColor>
+    <Description>Modo de voo</Description>
     <Text>{value}</Text>
     <TriggerValue>0</TriggerValue>
     <Name>mode</Name>
@@ -48,16 +84,34 @@
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>Check Altitude</Description>
-    <Text>{value} &lt; 5m</Text>
-    <TriggerValue>5</TriggerValue>
-    <Name>alt</Name>
-    <ConditionType>LT</ConditionType>
+    <Description>Bussola verificada?</Description>
+    <Text />
+    <TriggerValue>0</TriggerValue>
+    <Name>pitch</Name>
+    <ConditionType>NONE</ConditionType>
   </CheckListItem>
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>Tail and wings secured?</Description>
+    <Description>Horizonte verificado?</Description>
+    <Text />
+    <TriggerValue>-2</TriggerValue>
+    <Name>roll</Name>
+    <ConditionType>NONE</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>White</TrueColor>
+    <FalseColor>White</FalseColor>
+    <Description>Joystick conectado?</Description>
+    <Text />
+    <TriggerValue>-1</TriggerValue>
+    <Name>roll</Name>
+    <ConditionType>NONE</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>White</TrueColor>
+    <FalseColor>White</FalseColor>
+    <Description>Aeronave armada?</Description>
     <Text />
     <TriggerValue>0</TriggerValue>
     <Name>roll</Name>
@@ -66,7 +120,16 @@
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>All servos respond to input?</Description>
+    <Description>Teste de motor e servos:</Description>
+    <Text>comandos verificados?</Text>
+    <TriggerValue>0</TriggerValue>
+    <Name>roll</Name>
+    <ConditionType>NONE</ConditionType>
+  </CheckListItem>
+  <CheckListItem>
+    <TrueColor>White</TrueColor>
+    <FalseColor>White</FalseColor>
+    <Description>Missao carregada?</Description>
     <Text />
     <TriggerValue>0</TriggerValue>
     <Name>roll</Name>
@@ -75,7 +138,7 @@
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>All seros respond to pitch and roll?</Description>
+    <Description>Teste de disparo ok?</Description>
     <Text />
     <TriggerValue>0</TriggerValue>
     <Name>roll</Name>
@@ -84,8 +147,8 @@
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>Center of gravity at indicated point?</Description>
-    <Text />
+    <Description>Aeronave posicionada?</Description>
+    <Text>Nivelada e contra o vento.</Text>
     <TriggerValue>0</TriggerValue>
     <Name>roll</Name>
     <ConditionType>NONE</ConditionType>
@@ -93,17 +156,8 @@
   <CheckListItem>
     <TrueColor>White</TrueColor>
     <FalseColor>White</FalseColor>
-    <Description>Servo linkages are secure?</Description>
-    <Text />
-    <TriggerValue>0</TriggerValue>
-    <Name>roll</Name>
-    <ConditionType>NONE</ConditionType>
-  </CheckListItem>
-  <CheckListItem>
-    <TrueColor>White</TrueColor>
-    <FalseColor>White</FalseColor>
-    <Description>Camera is on and ready to fly?</Description>
-    <Text />
+    <Description>Modo AUTO?</Description>
+    <Text>Ailerons elevados.</Text>
     <TriggerValue>0</TriggerValue>
     <Name>roll</Name>
     <ConditionType>NONE</ConditionType>

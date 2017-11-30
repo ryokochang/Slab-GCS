@@ -21,3 +21,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.Propertie
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.exe
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.pdb
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache

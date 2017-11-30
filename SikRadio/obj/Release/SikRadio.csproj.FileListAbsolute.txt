@@ -157,3 +157,4 @@ C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\zh-Hans\SikRad
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\zh-Hant\SikRadio.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\zh-TW\SikRadio.resources.dll
 C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\SikRadio.exe
+C:\Users\pedro_000\Documents\GitHub\Slab-GCS\SikRadio\obj\Release\SikRadio.csprojResolveAssemblyReference.cache
